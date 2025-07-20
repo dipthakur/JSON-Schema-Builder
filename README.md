@@ -37,7 +37,7 @@ A simple JSON Schema Builder built with **ReactJS**, **React Hook Form**, and **
 ### 1. Clone Repository
 
 ```bash
-[git clone https://github.com/your-username/json-schema-builder.git](https://github.com/dipthakur/JSON-Schema-Builder.git)
+https://github.com/dipthakur/JSON-Schema-Builder.git
 cd json-schema-builder
 ```
 
